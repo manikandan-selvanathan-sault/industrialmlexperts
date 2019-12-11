@@ -16,6 +16,7 @@ sections:
 
       Overall, we will try to mitigate the risk instead of accepting it by
       prompt action to the opinions of customers.
+    image: /images/risk-vs-safe.jpg
     title: Risk
     type: section_content
   - bg: gray
