@@ -19,7 +19,7 @@ params:
   header:
     has_nav: true
     logo_img: images/logo.png
-    title: Azimuth
+    title: IndustrialMLExperts
     menu:
       actions:
         - label: Github
