@@ -16,9 +16,7 @@ sections:
     type: section_hero
   - bg: white
     featureslist:
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           As we already know various amounts of common problems and the
           solutions, we can use those experiences to train the machine learning
@@ -27,9 +25,7 @@ sections:
           and problems to become very effective.
         image: /images/e4174f28bb21c5df222e4d00040b4526.jpg
         title: Machine Troubleshoot Automation
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           The services which we provide are distinct from other competitors’
           services and mainly it reduces cost. Other competitive service
@@ -40,9 +36,7 @@ sections:
         image: >-
           /images/augmented-reality-reduce-skill-gap-several-industrial-sectors.jpg
         title: Mobile Apps for technicians
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: >-
           Technicians can access this anywhere and anytime using their mobile
           phones. For instance, they can get the machine to server communication
