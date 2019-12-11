@@ -1,5 +1,5 @@
 ---
-title: 'Pricing '
+title: 'Strategies '
 sections:
   - actions:
       - label: Free Trial
