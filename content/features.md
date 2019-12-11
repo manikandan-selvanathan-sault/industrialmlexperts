@@ -8,22 +8,30 @@ sections:
         url: '#'
     bg: gray
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      Currently, Automation is emerging across all industrial companies. There
+      are a lot of innovations
+
+      that can be done in the area. So our strategy would be Differentiation
+      from others and must be
+
+      cost-effective. This would be circulated among employees and allies.
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Introducing augmented reality learning in industries and solving the
+      problem automatically using
 
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
+      machine learning will be pretty new to the market. This makes it distinct
+      from other competitors.
 
-      * Phasellus ut enim non lorem venenatis rutrum.
+      So obviously our company will be the first mover.
 
 
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
-    section_id: features
+      * Other companies are using Augmented Reality only for learning purposes.
+      But using this
+        service, we can identify and solve the problem with the possible solutions with machine
+        learning and train technicians a solution in an interactive way using Augmented Reality.
+    image: /images/stategy.jpg
+    section_id: statergies
     title: The Best Features of Your Services
     type: section_content
   - actions:
