@@ -66,17 +66,6 @@ sections:
     subtitle: It Supports all the platforms
     title: Devices
     type: section_reviews
-  - actions:
-      - label: Get Started
-        url: /signup
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
-    type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Latest Posts
-    type: section_posts
 menu:
   main:
     name: Home
