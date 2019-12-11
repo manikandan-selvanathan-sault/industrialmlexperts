@@ -53,19 +53,23 @@ sections:
     reviews:
       - author: Android
         avatar: /images/android.png
-        content: sdf
+        content: >-
+          Android app available on playstore from Android verion 5.
+          https://play.google.com/store
       - author: iOS
         avatar: /images/ios.png
-        content: asdf
+        content: >-
+          iOS app available on iTunes from iOS verion 7.
+          https://www.apple.com/ca/itunes/
       - author: Desktop
         avatar: /images/windows.jpg
-        content: asdf
+        content: 'It has Windows Desktop apps to view the parts. '
       - author: Website
         avatar: /images/website.svg
-        content: asdf
+        content: It has Website to see the reports and remote login.
     section_id: reviews
     subtitle: It Supports all the platforms
-    title: Devices
+    title: Supported Devices
     type: section_reviews
 menu:
   main:
