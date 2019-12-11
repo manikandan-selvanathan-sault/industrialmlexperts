@@ -24,7 +24,7 @@ params:
       actions:
         - label: Github
           url: /githubpage
-  palette: blue
+  palette: green
 disableKinds:
   - RSS
   - taxonomy
