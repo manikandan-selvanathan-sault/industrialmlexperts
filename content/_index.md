@@ -1,9 +1,7 @@
 ---
 title: Home
 sections:
-  - actions:
-      - label: Learn More
-        url: /features
+  - actions: []
     content: >-
       Industrial ML Experts is the first of the next generation of platforms
       that enable rapid and sustainable digital transformation for companies in
