@@ -15,7 +15,7 @@ params:
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: SaaS theme by Stackbit
+    tagline: ''
   header:
     has_nav: true
     logo_img: /images/logo.png
