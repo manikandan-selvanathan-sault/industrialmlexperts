@@ -1,4 +1,4 @@
-title: Stackbit Azimuth Theme
+title: Industrial ML Experts
 baseURL: /
 params:
   footer:
@@ -21,7 +21,7 @@ params:
       actions:
         - label: Github
           url: /githubpage
-  palette: green
+  palette: blue
 disableKinds:
   - RSS
   - taxonomy
