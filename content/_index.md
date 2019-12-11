@@ -20,29 +20,36 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          As we already know various amounts of common problems and the
+          solutions, we can use those experiences to train the machine learning
+          model and that will help the machine to fix the problems by itself. We
+          can improvise this model in the future by adding more and more issues
+          and problems to become very effective.
+        image: /images/e4174f28bb21c5df222e4d00040b4526.jpg
+        title: Machine Troubleshoot Automation
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          The services which we provide are distinct from other competitors’
+          services and mainly it reduces cost. Other competitive service
+          providers are using Virtual Reality (VR). It needs an additional
+          device to view the parts virtually and it costs between 100$ and 600$
+          and also technicians must not carry the VR device wherever they want
+          to go.
+        image: >-
+          /images/augmented-reality-reduce-skill-gap-several-industrial-sectors.jpg
+        title: Mobile Apps for technicians
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Technicians can access this anywhere and anytime using their mobile
+          phones. For instance, they can get the machine to server communication
+          logs and possible solutions. This is a good way to replace paper books
+          and manual training.
+        image: /images/ar.jpg
+        title: Training - Augumented Reallity
     section_id: features
     subtitle: >-
       As our venture is to train the machines to troubleshoot themselves and
