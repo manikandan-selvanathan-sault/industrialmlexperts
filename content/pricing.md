@@ -117,6 +117,39 @@ sections:
       ![]()
     title: Risk
     type: section_content
+  - bg: gray
+    pricingplans:
+      - details: >-
+
+
+          **Platforms:**
+
+
+          * To reach all the customers, we have to develop mobile apps for all
+          platforms. Some customers also use browsers to troubleshoot the
+          problems. So, we must develop apps on both mobile and web platforms.
+
+
+          **Tools:**
+
+
+          * Finding the best tool to design and develop augmented reality will
+          be difficult. Since the core functionality of the app depends on this
+          tool might be a huge risk.
+
+
+
+
+          **Accuracy and reach:**
+
+
+          * **Machine learning:**
+            * Machine learning takes time to optimize the accurate models.
+          * **Augmented Reality:**
+            * Various manufacturing companies will be having multiple parts and units. It will be difficult to design the AR model for all of them.
+        highlight: false
+        title: Technology Risk
+    type: section_pricing
 menu:
   main:
     identifier: risk
