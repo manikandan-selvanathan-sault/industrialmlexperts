@@ -14,7 +14,7 @@ sections:
     section_id: hero
     title: Industrial ML Experts
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions:
           - label: Learn More
@@ -45,9 +45,10 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      As our venture is to train the machines to troubleshoot themselves and
+      also adequately educate the technicians, our major customers are
+      Manufacturing companies.
+    title: Venture
     type: section_features
   - bg: white
     reviews:
