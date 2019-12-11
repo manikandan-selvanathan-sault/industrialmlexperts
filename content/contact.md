@@ -1,17 +1,23 @@
 ---
-title: Contact
+title: Vision
 sections:
-  - type: section_contact
-    section_id: contact
-    title: Contact
+  - bg: gray
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
       tortor pretium ligula.
-    bg: gray
+    section_id: contact
+    title: Contact
+    type: section_contact
 menu:
+  main:
+    identifier: vision
+    name: Vision
+    weight: 2
   secondary:
-    name: Contact
-    weight: 3
+    identifier: ''
+    name: ''
+    weight: ''
 layout: landing
 ---
+
