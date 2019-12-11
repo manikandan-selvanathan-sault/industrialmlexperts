@@ -68,7 +68,7 @@ sections:
         avatar: /images/website.svg
         content: It has Website to see the reports and remote login.
     section_id: reviews
-    subtitle: It Supports all the platforms
+    subtitle: It Supports all major platforms
     title: Supported Devices
     type: section_reviews
 menu:
