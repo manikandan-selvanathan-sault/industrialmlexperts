@@ -16,9 +16,6 @@ sections:
 
       Overall, we will try to mitigate the risk instead of accepting it by
       prompt action to the opinions of customers.
-
-
-      ![]()
     title: Risk
     type: section_content
   - bg: gray
