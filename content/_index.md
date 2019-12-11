@@ -53,15 +53,16 @@ sections:
     reviews:
       - author: Android
         avatar: /images/android.png
-        content: ''
+        content: sdf
       - author: iOS
         avatar: /images/ios.png
-        content: ''
+        content: asdf
       - author: Desktop
         avatar: /images/windows.jpg
-        content: ''
+        content: asdf
       - author: Website
         avatar: /images/website.svg
+        content: asdf
     section_id: reviews
     subtitle: It Supports all the platforms
     title: Devices
