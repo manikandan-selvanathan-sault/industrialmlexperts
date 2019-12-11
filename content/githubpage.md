@@ -5,6 +5,9 @@ sections:
       - label: Github
         url: 'https://github.com/manikandan-selvanathan-sault/industrialmlexperts'
     section_id: github
+    subtitle: >-
+      Link to Github 
+      https://github.com/manikandan-selvanathan-sault/industrialmlexperts
     title: Github
     type: section_cta
 menu:
